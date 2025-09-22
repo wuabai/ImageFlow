@@ -50,7 +50,7 @@ ImageFlow 是一个全栈图片管理平台，能够自动为不同设备和浏�
 
 ```bash
 # 克隆仓库
-git clone https://github.com/Yuri-NagaSaki/ImageFlow.git
+git clone https://github.com/wuabai/ImageFlow.git
 cd ImageFlow
 
 # 使用 Docker Compose 启动
