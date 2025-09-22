@@ -49,7 +49,7 @@ ImageFlow is a full-stack image management platform that automatically optimizes
 
 ```bash
 # Clone the repository
-git clone https://github.com/Yuri-NagaSaki/ImageFlow.git
+git clone https://github.com/wuabai/ImageFlow.git
 cd ImageFlow
 
 # Start with Docker Compose
