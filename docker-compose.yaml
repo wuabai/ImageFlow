@@ -1,6 +1,6 @@
 services:
   images:
-    image: soyorins/imageflow
+    image: wuabai/imageflow
     ports:
       - "8686:8686"
     environment:
